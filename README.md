@@ -1,3 +1,5 @@
 # goetian_summoning_circle
 Principios de un circulo de invocaciòn goetico. 
 Introducing Goetian Summoning Circle: the software designed to train in the art of technomagic, combining engineering with occult practices. It enables users to explore goetic rituals, symbols, and seals in a digital realm. The software, named goetian_summoning_circle, can be shared through the power of GitHub technology.This is a first exercise for the creation of this software.
+
+This technomagical software, authored by the esteemed Technomage Cha0smagick, is a profound educational tool dedicated to the study of occult arts and the invocation of goetic beings through the use of magical software. With a tone of gravitas and solemnity, it provides a comprehensive platform for delving into the depths of esoteric knowledge and exploring the ancient practice of summoning otherworldly entities. Cha0smagick's creation serves as a portal to unlock the mysteries of the occult, offering seekers a profound and profound understanding of the intricate and sacred art of goetic invocation.
